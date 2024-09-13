@@ -1,7 +1,7 @@
 name: flailwind
 description: Tailwind-like styling in Flutter with text styles and colors.
-version: 0.0.1
-homepage: https://github.com/Luckey-Elijah/fundwise/tree/main/flailwind
+version: 0.0.1+1
+homepage: https://github.com/Luckey-Elijah/flailwind
 
 environment:
   sdk: ^3.4.0
